@@ -1,2 +1,2 @@
 # alekceu.github.io
-Personal webcite on github pages
+Personal website on github pages
